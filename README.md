@@ -1,4 +1,4 @@
 # VS_CodeFiles
-# My Java Project
+## My Java Project
 
-This repository contains Java files created using Visual Studio Code.
+>This repository contains Java files created using Visual Studio Code.
